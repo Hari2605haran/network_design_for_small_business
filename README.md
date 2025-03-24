@@ -53,6 +53,3 @@ We extend our gratitude to:
 - **Cisco Networking Academy** for providing the tools and resources that made this project possible.
 - The **open-source community** and various online forums for their continuous support and shared knowledge.
 
----
-This document ensures clarity, professionalism, and ease of use for anyone setting up the **Network Design for Small Business** in **Cisco Packet Tracer**.
-
